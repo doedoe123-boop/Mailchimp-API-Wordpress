@@ -13,7 +13,6 @@ The Simple Mailchimp API integration allows you to easily add a subscription for
 ## Features
 
 - **User Subscription Form:** A simple and clean form for users to subscribe to your Mailchimp list.
-- **AJAX Submission:** Submits the form without refreshing the page for a smoother user experience.
 - **Error Handling:** Provides feedback to users on the success or failure of their subscription attempts.
 - **Customizable Fields:** Easily modify form fields to collect additional information from subscribers.
 
